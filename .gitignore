@@ -33,3 +33,5 @@ results/
 
 # Streamlit
 .streamlit/
+
+data/regulations/
