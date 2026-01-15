@@ -1,0 +1,196 @@
+Software as a Service Subscription Agreement
+This Software as a Service Subscription Agreement (this “Agreement”)
+is made as of __________________ (the “Effective Date”) by and between Pepperi Inc. (the
+"Company" or “Pepperi”), a Delaware Corporation, with registered office at 106 W 32nd Street,
+New York, NY 10001, 106 W 32nd Street, New York, NY 10001, telephone +1-800-644-9146 and email
+address info@pepperi.com
+and
+________________________ (the "Client"), a limited company incorporated under the Laws of
+_______________, with registered office at ____________, ________________,
+The Company and the Client shall each be referred to herein as a "Party" and collectively, the
+"Parties".
+WHEREAS the Company operates and maintains and/or collaborates with third party vendors to
+operate and maintain a SaaS (Software as a Service) sales platform for brand manufacturers and
+wholesalers known as 'Pepperi Suite' (the "SaaS Platform") and a variety of software tools and
+services through its website and its mobile application(s) (the "Mobile App"); and
+WHEREAS the Client wishes to subscribe to the SaaS Platform and to certain tools and services;
+NOW, THEREFORE, in consideration of the foregoing recitals and the shared covenants contained in
+this Agreement, the Parties agree as follows:
+1 RECITALS, SCHEDULES AND APPENDICES; HEADLINES
+1.1 The Recitals, Schedules, and Appendices to this Agreement constitute an integral part thereof.
+1.2 The headings in this Agreement are for convenience only and shall not affect the interpretation
+thereof.
+2 DEFINITIONS
+"Designated Account" shall have the meaning set forth in Schedule I hereto (Consideration and
+Payment Term).
+“Documentation” shall mean all information, data, instructions, guidance, and other materials
+related to the Software.
+“Effective Date” shall mean the date this agreement is signed by both parties.
+"End Date" shall mean 36 months from Production Date.
+“Kickoff Date" shall mean the date of the initial meeting/on-line meeting for the implementation of
+the Saas Platform Software.
+"License" shall mean the non-exclusive, non-transferrable non-refundable limited license to use the
+SaaS Platform Software within the Territory during the Subscription Term and solely for the Purpose,
+granted by the Company to the Client subject to and in accordance with the terms of this Agreement.
+Each License shall be granted on either name basis for the Use by an individual User or for the client
+to use according to Schedule I hereto (Consideration and Payment Term).
+"Mobile App" shall mean, the mobile application through which 'Pepperi Salesforce Automation'
+(SFA) is operated by SFA Users and/or the mobile application through which 'Pepperi Mobile
+StoreFront' is operated by StoreFront Users (as may be applicable).
+"Pepperi ST Edition" shall mean "Pro", "Corporate", or "Ultimate" edition of the SaaS Platform
+Software as set forth in Schedule I hereto (Consideration and Payment Terms) and Appendix 1
+Proposal.
+"Proposal" shall mean Pepperi Pricing Proposal, dated ____________, attached as Appendix 1 hereto
+(Proposal).
+2
+“Production Date” shall mean the date from which the Client starts to generate real orders that are meant
+to be shipped to the customers or three months from the Kickoff, the earlier of the two.
+"SFA Users" shall mean individuals employed or engaged by Client, designated and authorized by it
+to use the Site, the SaaS Platform and the Services and/or to install and use the Mobile App Software
+(all as applicable), and subscribed as users to the Pepperi ST Edition.
+"StoreFront Users" shall mean individuals employed or engaged by Client's client, that are: (i)
+designated and authorized by the Client to use 'Pepperi Web StoreFront' and/or 'Pepperi Mobile
+StoreFront' (as may be applicable) and for this purpose to use the Site, the SaaS Platform and the
+applicable Services and/or to install and use the applicable Mobile App Software; and (ii) are
+subscribed as such users. To eliminate any doubts, any individual that is using the SaaS platform
+including Storefront on behalf of the client and is not employed or engaged to use Storefront by
+Client's client, is an SFA user.
+“Services” shall mean (i) the 'Pepperi SaaS Platform Software tools and services set forth under the
+applicable Proposal in Appendix 1 hereto (Proposal) and related Support Services.
+"Site" shall mean the Company's website [www.PEPPERI.com] and any other websites provided by
+the Company to access and/or use the Pepperi Services.
+“Software” shall mean any software, library, utility, tool, component, or other computer or program
+code, in object (binary) or source-code form (i) contained in the SaaS Platform or otherwise used,
+operated or maintained by the Company in connection with the Site or the Services and related
+Documentation (the "SaaS Platform Software"), or if applicable (ii) contained in the Mobile App and
+locally installed on the mobile device of any User (as may be applicable) and related Documentation
+furnished to the Client from time to time by the Company in its sole discretion in conjunction
+therewith (the "Mobile App Software"), including, in each case, any Upgrades thereto.
+"SOW" shall mean the Statement of Work specifically designed for the Client set forth as SOW and
+attached as Appendix 5 hereto (SOW).
+“Subscription” shall mean the nontransferable, non-refundable subscription to the SaaS Platform
+granted to the Client by the Company hereunder, permitting the Users to access and use the Site,
+the SaaS Platform, the Mobile App and the Services, in each case, during the Subscription Term, solely
+for the Purpose and subject to and in accordance with the terms of this Agreement and the T&C.
+"Subscription Fee" shall have the meaning set forth in Schedule I hereto (Consideration and Payment
+Terms).
+“Support Services” shall mean the Remote Support services and the Additional Support services, as
+terms are defined in Section 4 below.
+"Subscription Term" shall mean the period commencing on the Production Date and ending on the
+End Date.
+"T&C" shall mean the Pepperi Terms and Conditions of Use from time to time posted on the Site.
+"Term" shall mean the period commencing on the Effective Date and ending on the End Date.
+“Territory” shall mean ____________________________________________.
+"Upgrades" shall mean upgrades, updates, bug fixes or modified versions to the Software from time
+to time issued and applied by the Company in its sole discretion.
+"Users" shall mean Users of the SaaS Platform Software including but not limited to users of the SFA
+and StoreFront, Admin users, back office tele sales, support and Managers.
+3 SUBSCRIPTION
+3.1 Subject to the terms and conditions of this Agreement (including, without limitation, timely
+payment of the Subscription Fee in accordance with Schedule I hereto) and the T&C, the
+Company hereby grants to the Client and the Client hereby accepts the Subscription and the
+License.
+3
+3.2 Client acknowledges and agrees that the Subscription and License are subject to the T&C and
+Client shall comply with and shall enforce and ensure compliance with the obligations of each
+User under the T&C. In addition to and without derogating from any other remedy available
+to the Company hereunder or under applicable law and notwithstanding anything to the
+contrary contained herein, if Client breaches or fails to promptly enforce compliance with the
+terms and conditions of this Agreement or the T&C, the Company shall have the right to
+enforce such terms and conditions as a third party beneficiary, terminate the Subscription and
+License and/or deny access of the applicable User(s) to the Services and the Site.
+3.3 For the avoidance of doubt, the Client acknowledges and agrees as follows:
+The Subscription and the License are non-exclusive, non-transferrable and shall be
+limited to the Subscription Term and for the sole purpose of accessing and using the
+Site, the SaaS Platform, the Services and the Mobile App by Users employed or
+engaged by Client (or, in the case of 'Pepperi StoreFront', by Client's client) within
+the Territory (including, subject to the T&C, such Users traveling out of the Territory)
+in connection with its sales activity within the Territory (the "Purpose"). Any use,
+activation, or operation of the Subscription, the License, the Site, the SaaS Platform,
+the Services or the Mobile App following the end of the Subscription Term, by Users
+employed or engaged outside of the Territory or in connection with any sales or
+business activity outside of the Territory or for any purpose other than the Purpose,
+in each case, without the Company's prior written consent in its sole discretion (and
+subject to the terms and conditions set forth in such consent) is strictly forbidden
+and shall be deemed a material breach of this Agreement.
+3.3.1 SFA User subscriptions are provided on a per-seat, named basis, and may not be used
+or shared by multiple Users. Subscription may be installed on multiple devices, but
+are restricted to an individual named person.
+3.3.2 The Subscription and the License expressly exclude, the Company will not provide,
+and the Client shall be solely responsible to purchase, obtain, install, activate,
+operate and maintain, any third-party software or license and any hardware or
+device (including, but not limited to, mobile devices used by Users for installation of
+the Mobile App and computer systems at Client's site or, in the case of 'Pepperi
+StoreFront', at the site of the Client's client)) that may be required in order to install,
+run, activate, or access the Site, the SaaS Platform, the Services or the Mobile App,
+including, but not limited to, the applicable operating system and internet browsing
+software, in each case, in its most recent version released prior to the release of the
+most recent Upgrade. All such third-party software or licenses and hardware or
+devices shall meet the Company's system requirements and recommendations from
+time to time posted on the Site, and the Client acknowledges, agrees, and warrants
+that it has reviewed the current requirements and recommendations posted on the
+Site on the date hereof and will review the same upon any Upgrade and from time
+to time.
+3.4 In addition to and without derogating from any other remedy available to the Company
+hereunder or under applicable law and not withstanding anything to the contrary contained in
+this Agreement or the T&C, the Company shall have the right to deny access to the Site and/or
+the SaaS Platform and/or the Services by any or all Users and terminate the Subscription (or,
+in the Company's sole discretion, the subscription of any User thereunder) and the License (or,
+in the Company's sole discretion, the license of any User under the License) (i) in the event that
+the Client is in breach of this Agreement, and (ii) in the event that the Client or any User is in
+breach of the T&C, provided, however, in each case, that Client does not remedy such breach
+within 7 (seven) days following Company's written notice of such breach, unless immediate
+termination is required in Company's discretion to ensure due operation of the SaaS Platform,
+the Site, the Mobile App or the Services, in which case Company shall have the right to deny
+access to the Site, SaaS Platform and Mobile App and/or terminate the Subscription as
+aforesaid without notice.
+4
+4 SUPPORT
+4.1 During the Subscription Term the Company shall provide the Client with remote support
+services required for purposes of the installation of the Mobile App Software and the activation
+and implementation of the Mobile App, the SaaS Platform, the Services, and the Site, by the
+Client and the Users (including help desk support and assistance, automatic backups, and
+Upgrades), in accordance with the Documentation and Pepperi Support Service Level Appendix
+attached as Appendix 3 hereto (SLA).
+4.2 In addition to the Standard Remote Support, following Client's prior written request and
+subject to the receipt by Company of the Additional Support Cost whether remote or onsite
+(as defined below), the Company shall provide Client consulting, training and integration
+services as may be agreed by the Parties in writing from time to time ("Additional Support").
+5 CONSIDERATION AND PAYMENTS
+5.1 In consideration for the Subscription, License and related Remote Support services, the Client
+shall pay to the Company the Fees set forth in Schedule I, payable to the Designated Account
+in accordance with the payment terms set forth therein.
+5.2 In consideration for each Day of Additional Support services (and for purposes hereof, each
+Day shall include 8 (eight) working hours of one individual), the Client shall pay the Company
+the service fees set forth in Appendix I hereto, and reimburse Company for all travel expenses
+preapproved by Client (which approval shall not be unreasonably withheld), including flights,
+accommodation, food and beverages allowance and other expenses, in accordance with
+Pepperi Travel and Accommodation Expense Policy attached as Appendix 4 hereto. The
+aggregate amount of the aforementioned daily service fees and reimbursement of travel
+expenses shall be collectively referred to herein as the "Additional Support Cost" and they
+shall be paid in accordance with the payment terms set forth in Schedule I (Consideration and
+Payment Terms).
+5.3 All payments to the Company hereunder shall be in USD and without deductions or set-off
+based on any currency control restrictions, import duties, or sales, use, value-added, or other
+taxes or withholdings. Client will bear all applicable fees and taxes involved with the
+performance of this Agreement, including but not limited to all fees and taxes imposed by
+governmental authorities and banks due to international transactions. Payments will be linked
+to the American Consumer Price Index, plus additional linkage of 5(five)% on an annual basis
+since the Effective Date and until the payment is actually received. In addition to and without
+derogating from any remedy available to Company in accordance with this Agreement of
+applicable law, (i) the Client shall reimburse the Company for all collection costs and interest
+for any overdue amounts, and (ii) any late payment of the Subscription Fee or any part thereof
+shall bear interest from its respective due date hereunder until the its actual payment, at the
+rate of 8% (eight percent) per annum.
+6 TERM AND TERMINATION
+6.1 This Agreement shall enter into effect on the Effective Date and shall remain in effect until the
+End Date, and thereafter shall be automatically renewed for an additional 1 (one) year term,
+unless either Party informed the other Party in writing otherwise by 6 months advance notice,
+prior to expiration (all unless terminated earlier in accordance with the terms of This
+Agreement).
+6.2 Without derogating from and in addition to its right under this Agreement or applicable law to
+any other or additional remedy or relief, either Party (in this Section 6, the "Terminating Party")
+may terminate this Agreement at any time during the term of this Agreement in the event that
+the other Party: fails to perform any obligation, warranty, duty or responsibility or is in default
+with respect to any term or condition undertaken under this Agreement and such failure or
+default continues un-remedied for a period of thirty (30) days following written notice thereof.

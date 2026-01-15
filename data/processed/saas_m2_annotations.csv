@@ -1,0 +1,17 @@
+clause_id,clause_type,clause_text,risk_score,severity
+1.1,Other,"The Recitals, Schedules, and Appendices to this Agreement constitute an integral part thereof.",5,low
+1.2,Other,The headings in this Agreement are for convenience only and shall not affect the interpretation thereof.,5,low
+2,Other,Various definitions are provided for terms used in the agreement.,5,low
+3.1,Other,"Subject to the terms and conditions of this Agreement, the Company hereby grants to the Client and the Client hereby accepts the Subscription and the License.",10,low
+3.2,Other,Client acknowledges and agrees that the Subscription and License are subject to the T&C and Client shall comply with and shall enforce and ensure compliance with the obligations of each User under the T&C.,40,medium
+3.3,Other,"The Subscription and the License are non-exclusive, non-transferrable and shall be limited to the Subscription Term and for the sole purpose of accessing and using the Site, the SaaS Platform, the Services and the Mobile App by Users employed or engaged by Client.",20,low
+3.3.1,Other,"SFA User subscriptions are provided on a per-seat, named basis, and may not be used or shared by multiple Users.",10,low
+3.3.2,Other,"The Subscription and the License expressly exclude, the Company will not provide, and the Client shall be solely responsible to purchase, obtain, install, activate, operate and maintain, any third-party software or license and any hardware or device.",20,low
+3.4,Termination,The Company shall have the right to deny access to the Site and/or the SaaS Platform and/or the Services by any or all Users and terminate the Subscription and the License in the event of a breach by the Client or any User.,60,medium
+4.1,SLA,"The Company shall provide the Client with remote support services required for purposes of the installation of the Mobile App Software and the activation and implementation of the Mobile App, the SaaS Platform, the Services, and the Site.",10,low
+4.2,SLA,"The Company shall provide Client consulting, training and integration services as may be agreed by the Parties in writing from time to time.",10,low
+5.1,Payment,"The Client shall pay to the Company the Fees set forth in Schedule I, payable to the Designated Account in accordance with the payment terms set forth therein.",10,low
+5.2,Payment,"The Client shall pay the Company the service fees set forth in Appendix I hereto, and reimburse Company for all travel expenses preapproved by Client.",10,low
+5.3,Payment,"All payments to the Company hereunder shall be in USD and without deductions or set-off based on any currency control restrictions, import duties, or sales, use, value-added, or other taxes or withholdings.",60,medium
+6.1,Termination,"This Agreement shall enter into effect on the Effective Date and shall remain in effect until the End Date, and thereafter shall be automatically renewed for an additional 1 (one) year term.",40,medium
+6.2,Termination,"Either Party may terminate this Agreement at any time during the term of this Agreement in the event that the other Party fails to perform any obligation, warranty, duty or responsibility or is in default with respect to any term or condition undertaken under this Agreement.",60,medium
